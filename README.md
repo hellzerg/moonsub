@@ -10,6 +10,9 @@ Subtitle downloader and movie organizer
 * Organizes movies in folders
 * Downloads and saves movie data from IMDb in text files
 
+## Downloads: ##
+https://github.com/hellzerg/moonsub/releases
+
 ## Compatibility: ##
 
 .NET Framework 4.5.2
