@@ -28,6 +28,4 @@ Latest version: 1.2
 Released: October 22, 2017
 
 ## Tools used: ##
-https://github.com/vrokolos/VrokSub
-
-This program slightly changes VrokSub, and wraps it in a GUI
+This program slightly changes VrokSub, and wraps it in a beautiful GUI
