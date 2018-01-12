@@ -13,6 +13,9 @@ Subtitle downloader and movie organizer
 ## Downloads: ##
 https://github.com/hellzerg/moonsub/releases
 
+## Screenshots: ##
+https://github.com/hellzerg/moonsub/blob/master/IMAGES.md
+
 ## Compatibility: ##
 
 .NET Framework 4.5.2
